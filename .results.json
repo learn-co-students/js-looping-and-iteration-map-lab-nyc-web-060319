@@ -1,0 +1,116 @@
+{
+  "stats": {
+    "suites": 4,
+    "tests": 7,
+    "passes": 7,
+    "pending": 0,
+    "failures": 0,
+    "start": "2019-07-15T13:56:07.611Z",
+    "end": "2019-07-15T13:56:10.338Z",
+    "duration": 2727
+  },
+  "tests": [
+    {
+      "title": "uses the Array map method",
+      "fullTitle": "index.js lowerCaseDrivers() uses the Array map method",
+      "duration": 3,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "returns all drivers lowercased",
+      "fullTitle": "index.js lowerCaseDrivers() returns all drivers lowercased",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "does not modify the original array",
+      "fullTitle": "index.js lowerCaseDrivers() does not modify the original array",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "uses the Array map method",
+      "fullTitle": "index.js nameToAttributes() uses the Array map method",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "returns list of objects with appropriate first and last names",
+      "fullTitle": "index.js nameToAttributes() returns list of objects with appropriate first and last names",
+      "duration": 2,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "uses the Array map method",
+      "fullTitle": "index.js attributesToPhrase() uses the Array map method",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "converts to list saying the name and where each individual is from",
+      "fullTitle": "index.js attributesToPhrase() converts to list saying the name and where each individual is from",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    }
+  ],
+  "pending": [],
+  "failures": [],
+  "passes": [
+    {
+      "title": "uses the Array map method",
+      "fullTitle": "index.js lowerCaseDrivers() uses the Array map method",
+      "duration": 3,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "returns all drivers lowercased",
+      "fullTitle": "index.js lowerCaseDrivers() returns all drivers lowercased",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "does not modify the original array",
+      "fullTitle": "index.js lowerCaseDrivers() does not modify the original array",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "uses the Array map method",
+      "fullTitle": "index.js nameToAttributes() uses the Array map method",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "returns list of objects with appropriate first and last names",
+      "fullTitle": "index.js nameToAttributes() returns list of objects with appropriate first and last names",
+      "duration": 2,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "uses the Array map method",
+      "fullTitle": "index.js attributesToPhrase() uses the Array map method",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "converts to list saying the name and where each individual is from",
+      "fullTitle": "index.js attributesToPhrase() converts to list saying the name and where each individual is from",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    }
+  ]
+}
